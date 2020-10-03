@@ -1,4 +1,2 @@
-# vijay-garg.github.io
-
-My user github page
+### My user github page
 https://vijay-garg.github.io/
